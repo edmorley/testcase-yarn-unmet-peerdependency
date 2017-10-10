@@ -1,0 +1,9 @@
+
+> uglifyjs-webpack-plugin@0.4.6 postinstall C:\Users\Ed\src\peer-testcase\node_modules\uglifyjs-webpack-plugin
+> node lib/post_install.js
+
+npm WARN peer-testcase No description
+npm WARN peer-testcase No repository field.
+npm WARN peer-testcase No license field.
+
+added 577 packages in 9.266s

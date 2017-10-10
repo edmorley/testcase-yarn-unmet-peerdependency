@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "neutrino": "7.1.0",
+    "neutrino-preset-airbnb-base": "7.1.0"
+  }
+}
